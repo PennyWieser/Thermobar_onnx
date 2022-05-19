@@ -33,6 +33,7 @@ setup(
             'openpyxl',
             'skl2onnx',
             'onnxruntime'
+
             ],
     classifiers=[
         "Programming Language :: Python :: 3",
